@@ -10,3 +10,7 @@
 .container {
   max-width: none;
 }
+
+.body {
+  background-color: #eeeeee ;
+}
